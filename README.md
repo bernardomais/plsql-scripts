@@ -1,3 +1,1 @@
-# Scripts PL/SQL
-
-## Notes about PL/SQL
+## Scripts & Notes about PL/SQL
